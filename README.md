@@ -10,8 +10,6 @@ A machine learning-based web application that predicts the CIBIL credit score of
 - 🧠 Model Training and evaluation on a labeled dataset
 - 📈 Real-time Score Prediction via web interface
 - 💡 Personalized Recommendations based on prediction results
-- 🌐 Web Application built with Flask/Django and integrated frontend
-- 🛡️ Basic Authentication for user data privacy (optional)
 
 ## 📁 Project Structure
 cibil-score-prediction/
